@@ -1,5 +1,5 @@
 ## Refold-Deck-Mods
-Community mods for the <Refold.la> project's official anki decks
+Community mods for the [Refold.la](http://Refold.la) project's official anki decks
 
 Note: This repository does *not* contain the decks themselves!! to obtain the base decks:
 
