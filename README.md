@@ -7,7 +7,7 @@ Note: This repository does *not* contain the decks themselves!! to obtain the ba
 
 ## Current Decks
 
-### [jp1k v1.0 (2021-02-05)](https://www.patreon.com/posts/introducing-jp1k-47170715) <-- link to deck
+### [JP1K v1.1 (2021-02-06)](https://www.patreon.com/posts/47170715) <-- link to deck
 
 - A new, best-practice deck for early Japanese learners (Stage 1).
 - Replacement for (R)RTK and Tango N5 decks

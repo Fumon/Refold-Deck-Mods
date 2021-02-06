@@ -10,7 +10,7 @@ Don't panic.
 
 Copy what's in the files in this repository into your **【card type】**
 
-For **jp1k** that's going to be the files under (/Refold-Deck-Mods/jp1k/base)[jp1k/base]. Go into your "Japanese Recognition" **【note type】** and copy over the file contents into your "1: Vocab: Word -> Meaning+Audio" **【card type】**'s template fields.
+For **JP1K** that's going to be the files under (/Refold-Deck-Mods/jp1k/base)[jp1k/base]. Go into your "Japanese Recognition" **【note type】** and copy over the file contents into your "1: Vocab: Word -> Meaning+Audio" **【card type】**'s template fields.
 
 This should revert the deck to its normal state.
 
@@ -33,14 +33,14 @@ How do we do that? Read on...
 
 ## Desktop
 
-Using the example of the JP1k Deck on windows, here is how you get to the right screen to the options for the **【card type】**. 
+Using the example of the JP1K Deck on windows, here is how you get to the right screen to the options for the **【card type】**. 
 
 ### Steps
 
 Open Anki and follow these steps:
 
 1. Navigate to the (Tools >> Manage Note Types) Dropdown
-2. Scroll down and click the "Japanese Recognition" note type. This is JP1k's note type.
+2. Scroll down and click the "Japanese Recognition" note type. This is JP1K's note type.
 3. Click on the "Cards..." button on the right
 
 ![how to open card types dialog](res/how_to_open_card_types.png)
@@ -59,7 +59,7 @@ Open Anki and follow these steps:
 
 ## AnkiDroid/Mobile
 
-It's easier to mod on the Desktop version of Anki and then use Sync to transfer the mod to your phone but if you're stuck on mobile, here are the steps to get to the JP1k Deck's **【card type】** edit screen.
+It's easier to mod on the Desktop version of Anki and then use Sync to transfer the mod to your phone but if you're stuck on mobile, here are the steps to get to the JP1K Deck's **【card type】** edit screen.
 
 Note: This process will be significantly easier in the near future once the deck customizer is finished. 
 
