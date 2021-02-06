@@ -15,6 +15,7 @@ Note: This repository does *not* contain the decks themselves!! to obtain the ba
 #### Mods
 
 - [Mobile - Tap anywhere to show furigana](jp1k/mods/Mobile%20Tap%20To%20show%20Furigana)
+- [Additional Fonts and Stroke Order](jp1k/mods/Additional%20Fonts)
 
 Support continued mod development. One time donation available.
 [![Buy me a coffee!](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mI8stwU4P)

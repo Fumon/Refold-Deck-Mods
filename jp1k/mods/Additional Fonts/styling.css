@@ -1,0 +1,16 @@
+@font-face { font-family: strokeorder; src: url('_strokeorder.ttf'); }
+@font-face { font-family: hgrkk; src: url('_hgrkk.ttf'); }
+@font-face { font-family: yugothb; src: url('_yugothb.ttc'); }
+
+.comic {
+	font-family: yugothb;
+}
+
+.kyokasho {
+	font-family: hgrkk;
+}
+
+.strokeorder {
+	font-family: strokeorder;
+	font-size: 80px;
+}
