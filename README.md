@@ -9,13 +9,26 @@ Note: This repository does *not* contain the decks themselves!! to obtain the ba
 
 ### [jp1k v1.0 (2021-02-05)](https://www.patreon.com/posts/introducing-jp1k-47170715) <-- click here for link
 
-**[MODS](jp1k/mods)**
+- A new, best-practice deck for the early Japanese learner (Stage 1).
+- Replacement for (R)RTK and Tango N5 decks
 
-* A new, best-practice deck for the early Japanese learner (Stage 1).
-* Replacement for (R)RTK and Tango N5 decks
+#### Mods
+
+- [Mobile Tap To Show Furigana](jp1k/mods/Mobile Tap To show Furigana)
 
 Support continued mod development. One time donation available.
 [![Buy me a coffee!](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mI8stwU4P)
+
+# FAQ
+
+- Q: How do I use these mods?
+  - A: I'm currently working on an interactive version of this resource. Until then, here's a basic **[guide to modding](How-To-Mod.md)**
+- Q: Will I loose progress on the deck by following these mods?
+  - A: Unless the mod specifically says so in the description no. You are only modifying how the deck is displayed to you.
+
+# Getting Help & Bugs
+
+- Open a ticket [here](issues) or find Prigtopia on discord.
 
 # Tips and Tricks
 

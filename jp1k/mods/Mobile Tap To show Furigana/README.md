@@ -6,6 +6,8 @@ This mod adds a "tap anywhere to view furigana" feature on mobile Anki apps. Thi
 
 ## Instructions
 
+If you need help reading these instructions, this *[guide to modding anki](../../../How-To-Mod.md)* might help. Once you've read it, follow along below.
+
 1. In the "Styling" tab of the card editor, copy the following and paste it on a new line after everything that's already there
 
 ```css
@@ -14,7 +16,6 @@ This mod adds a "tap anywhere to view furigana" feature on mobile Anki apps. Thi
 ```
 
 2. You're done!
-
 
 Support continued mod development. One time donation available.
 [![Buy me a coffee!](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mI8stwU4P)
