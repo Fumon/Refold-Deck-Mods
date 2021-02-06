@@ -67,11 +67,16 @@ Note: This process will be significantly easier in the near future once the deck
 
 Open the AnkiDroid app and follow these instructions:
 
-1. Tap the three dot icon in the upper right ![AD1](res/android/AD1.png)
-2. Select "Manage note types" ![AD2](res/android/AD2.png)
-3. Scroll down until you find "Japanese Recognition". Press and hold the entry until a box pops up ![AD3](res/android/AD3.png)
-4. Select "Edit cards" ![AD4](res/android/AD4.png)
-5. You should now see a screen that looks similar to this. The three separate areas you can edit are highlighted ![AD5](res/android/AD5.png)
+1. Tap the three dot icon in the upper right 
+![AD1](res/android/AD1.png)
+2. Select "Manage note types" 
+![AD2](res/android/AD2.png)
+3. Scroll down until you find "Japanese Recognition". Press and hold the entry until a box pops up 
+![AD3](res/android/AD3.png)
+4. Select "Edit cards" 
+![AD4](res/android/AD4.png)
+5. You should now see a screen that looks similar to this. The three separate areas you can edit are highlighted 
+![AD5](res/android/AD5.png)
 
 6. Follow the instructions for the mod you want to install. Remember to scroll to the bottom of each box and paste the text on a new line.
 
