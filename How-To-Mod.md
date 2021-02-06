@@ -18,7 +18,7 @@ This should revert the deck to its normal state.
 
 You can skip to the next section if you just want to get to modding. If you want to understand about what we're doing here, there's some information here for you.
 
-Anki uses a (somewhat confusing) system to create the cards you see while reviewing. When you add something to a deck, you select a **【note type】** which gives you fields to fill in with information. Once you fill out the fields in the **【note】** Anki now has the information and the deck will now have a **【card】** for each **【card type】** associated with that **【note type】**. **【note type】**s are shared between all your decks and most decks you download have a custom one bundled with them. Every time you add an additional **【card type】** to a **【note type】**, all the existing **【note】**s will generate new cards in the decks they're in.
+Anki uses a (somewhat confusing) system to create the cards you see while reviewing. When you add something to a deck, you select a **【note type】** which gives you fields to fill in with information. Once you fill out the fields in the **【note】** Anki now has the information and the deck will now have a **【card】** for each **【card type】** associated with that **【note type】**. The **【note type】**'s are shared between all your decks and most decks you download have a custom one bundled with them. Every time you add an additional **【card type】** to a **【note type】**, all the existing **【note】**'s will generate new cards in the decks they're in.
 
 All the mods in this resource modify the **【card type】** options. When modifying them, **【card type】**s have three things we care about:
 

@@ -19,18 +19,18 @@ Note: This repository does *not* contain the decks themselves!! to obtain the ba
 Support continued mod development. One time donation available.
 [![Buy me a coffee!](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mI8stwU4P)
 
-# FAQ
+## FAQ
 
 - Q: How do I use these mods?
   - A: I'm currently working on an interactive version of this resource. Until then, here's a basic **[guide to modding](How-To-Mod.md)**
 - Q: Will I loose progress on the deck by following these mods?
   - A: Unless the mod specifically says so in the description no. You are only modifying how the deck is displayed to you.
 
-# Getting Help & Bugs
+## Getting Help & Bugs
 
 - Open a ticket [here](issues) or find Prigtopia on discord.
 
-# Tips and Tricks
+## Tips and Tricks
 
 ### Mobile
 
