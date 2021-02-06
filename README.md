@@ -7,11 +7,17 @@ Note: This repository does *not* contain the decks themselves!! to obtain the ba
 
 ## Current Decks
 
-* [jp1k v1.0 (2021-02-05)](https://www.patreon.com/posts/introducing-jp1k-47170715)
-  * A new, best-practice deck for the early Japanese learner (Stage 1).
-  * Replacement for (R)RTK and Tango N5 decks
+### [jp1k v1.0 (2021-02-05)](https://www.patreon.com/posts/introducing-jp1k-47170715) <-- click here for link
 
-## Tips and Tricks
+**[MODS](jp1k/mods)**
+
+* A new, best-practice deck for the early Japanese learner (Stage 1).
+* Replacement for (R)RTK and Tango N5 decks
+
+Support continued mod development. One time donation available.
+[![Buy me a coffee!](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mI8stwU4P)
+
+# Tips and Tricks
 
 ### Mobile
 

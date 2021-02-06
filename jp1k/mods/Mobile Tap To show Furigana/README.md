@@ -14,3 +14,7 @@ This mod adds a "tap anywhere to view furigana" feature on mobile Anki apps. Thi
 ```
 
 2. You're done!
+
+
+Support continued mod development. One time donation available.
+[![Buy me a coffee!](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mI8stwU4P)
